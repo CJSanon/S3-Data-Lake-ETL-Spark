@@ -27,5 +27,7 @@ My task is to create a S3 data lake by building an ETL pipeline using Spark to p
 ## Sample Query
 **These queries are not optimized and will take a while to run**
 These two simple queries demonstrate that the ETL pipeline is successful and available for the analytics team to run queries.
+
 ![Artists with most minutes of music](artists_songs_sum.png)
+
 ![Songs by artist](songs_by_artist_query_image.png)
