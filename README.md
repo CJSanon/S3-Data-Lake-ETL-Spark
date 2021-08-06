@@ -1,7 +1,7 @@
-# Data Lake Project #
+# Data Lake Project
 ---
 
-Sparkify wants to migrate to a data lake from a data warehouse as they have increased their user base and song database.
+- Sparkify wants to migrate to a data lake from a data warehouse as they have increased their user base and song database.
 Currently they have a directory of JSON logs on user activity on their app and a directory of JSON metadata for the songs in the app.
 My task is to create a S3 data lake by building an ETL pipeline using Spark to process the JSON logs into analytic tables for the analytics team to find insights on user activity.
 ---
