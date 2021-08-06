@@ -1,4 +1,4 @@
-# Data Lake Project
+# S3 Data Lake Pipeline Using Spark
 ---
 
 - Sparkify wants to migrate to a data lake from a data warehouse as they have increased their user base and song database.
