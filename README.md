@@ -1,6 +1,6 @@
 # S3 Data Lake Pipeline Using Spark
 
-- The aim of this project is building an ETL pipeline for an S3 data lake. JSON logs will be extracted from an S3 data warehouse with Spark and transformed using a star schema to an S3 data lake. The S3 data warehouse contains over 14,000 JSON logs on user activity and metadata for a fictitious startup called Sparkify. The transformed data could be queried to gain insight on user activity. 
+- The aim of this project is building an ETL pipeline for an S3 data lake. JSON logs will be extracted from an S3 data warehouse with Spark and transformed using a star schema to an S3 data lake. The S3 data warehouse contains over 14,000 JSON logs of user activity and metadata for a fictitious startup called Sparkify. The transformed data could be queried to gain insight on user activity. 
 
 ## Project Files
 
