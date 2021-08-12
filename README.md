@@ -23,7 +23,7 @@
 
 
 ## Sample Query
-**These queries are not optimized and will take a while to run**
+**These queries are not optimized and will take a while to run.**
 These two simple queries demonstrate that the ETL pipeline is successful and available for the analytics team to run queries.
 
 ![Artists with most minutes of music](artists_songs_sum.png)
