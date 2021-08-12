@@ -1,4 +1,4 @@
-_Udacity Data Engineering Nano Degree | Project 4
+### _Udacity Data Engineering Nano Degree | Project 4_
 
 # S3 Data Lake Pipeline Using Spark
 
