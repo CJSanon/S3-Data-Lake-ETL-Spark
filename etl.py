@@ -93,7 +93,7 @@ def process_song_data(spark, input_data, output_data):
                                       StructField("year", LongType(), True)]
                                     )
     # get filepath to song data file
-    song_data = "{}song_data/A/A/*/*.json".format(input_data)
+    song_data = "{}song_data/*/*/*/*.json".format(input_data)
     
     # read in songs data and write to a Spark DataFrame
     songs_df = spark.read.json(song_data, song_data_schema)
